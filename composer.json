@@ -1,0 +1,14 @@
+{
+	"name": "spell-checker/dictionary-fr",
+	"type": "library",
+	"description": "French dictionary for spell-checker and PhpStorm/InteliJ",
+	"homepage": "https://github.com/spell-checker/dictionary-fr",
+	"license": ["0BSD"],
+	"authors": [
+		{
+			"name": "Vlasta Neubauer",
+			"homepage": "http://www.paranoiq.cz"
+		}
+	],
+	"require": {}
+}
